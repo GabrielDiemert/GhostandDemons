@@ -6,9 +6,8 @@ ul {
     background-color: darkgray;
 }
 li {
-    float: left;
     color: white;
-        font-family: 'Macondo Swash Caps', cursive;
+    font-family: 'Macondo Swash Caps', cursive;
     text-align: center;
 }
 li a {
